@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  baseUrl: 'toh-json-server-api.herokuapp.com/api',
 };
